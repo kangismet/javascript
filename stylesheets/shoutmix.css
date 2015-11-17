@@ -15,3 +15,10 @@ body, div, input, select {
 	font-size: 10pt;
 	color: #55555;
 }
+@media only screen and (min-width : 650px) and (max-width : 785px),
+only screen and (min-device-width : 686px) and (max-device-width : 767px) {
+	label {width:70px}
+	.input input, .input select {float:left;}
+	input#name, input#url {width:40%}
+	input#message, input#url {width:100%}
+}
