@@ -15,11 +15,11 @@ body, div, input, select {
 	font-size: 10pt;
 	color: #55555;
 }
-@media only screen and (min-width : 785px) and (max-width : 900px){
+@media only screen and (min-width : 685px) and (max-width : 900px){
 	label {width:70px}
 	.input input, .input select {float:left;}
 	input#name {width:30%}
-	input#url {float:right;width:40%}
-	input#message {width:80%}
-	#form ol li:nth-child(2) {float:right;}
+	input#url {width:40%}
+	input#message {width:75%}
+	input#shout, input#options{margin-top:-27px;}
 }
