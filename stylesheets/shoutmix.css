@@ -12,6 +12,6 @@ src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s
 }
 body, div, input, select {
 	font-family: Roboto, Arial, Geneva, sans-serif;
-	font-size: 10pt;
+	font-size: 14pt;
 	color: #333333;
 }
