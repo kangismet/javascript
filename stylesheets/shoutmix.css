@@ -22,5 +22,4 @@ only screen and (min-device-width : 686px) and (max-device-width : 767px) {
 	input#name {width:30%}
 	input#url {width:30%}
 	input#message {width:88%}
-	input#shout, input#options{margin-top:-27px;}
 }
