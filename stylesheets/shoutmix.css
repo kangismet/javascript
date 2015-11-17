@@ -20,6 +20,7 @@ only screen and (min-device-width : 686px) and (max-device-width : 767px) {
 	label {width:70px}
 	.input input, .input select {float:left;}
 	input#name, input#url {width:30%}
-	input#message {width:88%}
+	input#url {float:right;}
+	input#message {width:80%}
 	#form ol li:nth-child(2) {float:right;}
 }
