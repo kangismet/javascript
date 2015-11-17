@@ -23,3 +23,6 @@ only screen and (min-device-width : 686px) and (max-device-width : 767px) {
 	input#url {width:30%}
 	input#message {width:88%}
 }
+#info li.text {font-size: 8pt;margin-top: 3px}
+#info li.text a {color:#888}
+#info li.text a:hover {color:#80BC00}
