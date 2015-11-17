@@ -19,6 +19,6 @@ body, div, input, select {
 only screen and (min-device-width : 686px) and (max-device-width : 767px) {
 	label {width:70px}
 	.input input, .input select {float:left;}
-	input#name, input#url {width:40%}
-	input#message, input#url {width:100%}
+	input#name, input#url {width:30%}
+	input#message {width:88%}
 }
