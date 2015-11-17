@@ -21,4 +21,5 @@ only screen and (min-device-width : 686px) and (max-device-width : 767px) {
 	.input input, .input select {float:left;}
 	input#name, input#url {width:30%}
 	input#message {width:88%}
+	fieldset.input ol li:nth-child(2) {margin-left:80px;margin-top:-25px;
 }
